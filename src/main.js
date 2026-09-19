@@ -27,8 +27,9 @@ app.innerHTML = `
   interaction-prompt="auto"
   loading="eager"
   ar
-  ar-modes="webxr scene-viewer quick-look"
-  ar-scale="auto"
+  ar-modes="scene-viewer webxr quick-look"
+  ar-scale="fixed"
+  ar-placement="floor"
 >
 </model-viewer>
 
