@@ -15,7 +15,7 @@ app.innerHTML = `
       <model-viewer
   id="burgerModel"
   class="product-viewer"
-  src="https://favlbdmmpyeubdfdjrpk.supabase.co/storage/v1/object/public/ar-models/burger_merged.glb"
+  src="https://favlbdmmpyeubdfdjrpk.supabase.co/storage/v1/object/public/ar-models/hamburger.glb"
   ios-src="https://favlbdmmpyeubdfdjrpk.supabase.co/storage/v1/object/public/ar-models/Hamburger.usdz"
   alt="Modelo 3D de um hambúrguer"
   camera-controls
