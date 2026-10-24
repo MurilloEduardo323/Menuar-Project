@@ -16,7 +16,7 @@ app.innerHTML = `
   id="burgerModel"
   class="product-viewer"
   src="https://favlbdmmpyeubdfdjrpk.supabase.co/storage/v1/object/public/ar-models/hambur.glb"
-  ios-src="https://favlbdmmpyeubdfdjrpk.supabase.co/storage/v1/object/public/ar-models/Hamburger.usdz"
+  ios-src="https://favlbdmmpyeubdfdjrpk.supabase.co/storage/v1/object/public/ar-models/hambur.usdz"
   alt="Modelo 3D de um hambúrguer"
   camera-controls
   touch-action="pan-y"
